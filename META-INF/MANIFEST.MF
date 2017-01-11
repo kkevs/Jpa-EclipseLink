@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Jpa-EclipseLink
+Bundle-SymbolicName: Jpa-EclipseLink
+Bundle-Version: 1.0.0.qualifier
+Export-Package: first_eclipseLink
