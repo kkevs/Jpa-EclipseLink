@@ -3,9 +3,9 @@
 	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence
 http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd"
 	version="2.1">
-	<persistence-unit name="EmployeePersistenceUnit"
+	<persistence-unit name="StaffPersistenceUnit"
 		transaction-type="RESOURCE_LOCAL">
-		<class>first_eclipseLink.Employee</class>
+		<class>jsf_jpa.Staff</class>
 		<properties>
 			<property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver" />
 			<property name="javax.persistence.jdbc.url"
